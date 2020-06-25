@@ -6,17 +6,38 @@
     "manifests": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/sat_iiif/iiif/0674 佛説四十二章經1巻/manifest.json",
+            "@id": "https://nakamura196.github.io/sat_iiif/iiif/8021/manifest.json",
             "@type": "sc:Manifest",
-            "label": "0674 佛説四十二章經1巻",
+            "label": "佛説四十二章經1卷",
             "thumbnail": "https://nakamura196.github.io/sat_iiif/files/medium/0674 佛説四十二章經1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/sat_iiif/iiif/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/manifest.json",
+            "@id": "https://nakamura196.github.io/sat_iiif/iiif/8390/manifest.json",
             "@type": "sc:Manifest",
-            "label": "1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷",
+            "label": "華嚴經明法品内立三寶章2卷",
             "thumbnail": "https://nakamura196.github.io/sat_iiif/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image001.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "修華嚴奧旨妄盡還源觀1卷",
+            "thumbnail": "https://nakamura196.github.io/sat_iiif/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image068.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/sat_iiif/iiif/8417/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "原人論1卷",
+            "thumbnail": "https://nakamura196.github.io/sat_iiif/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/sat_iiif/iiif/8383/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "華嚴經旨歸1卷",
+            "thumbnail": "https://nakamura196.github.io/sat_iiif/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image083.jpg"
         }
     ],
     "vhint": "use-thumb"
