@@ -12,7 +12,7 @@ import requests
 
 prefix = "https://nakamura196.github.io/sat_iiif"
 odir = "../../docs"
-path = "data/main2.xlsx"
+path = "data/main3.xlsx"
 
 '''
 config_path = "/Users/nakamura/git/min_a/lda/src/data/config.yml"

@@ -1,0 +1,108 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "酉蓮社",
+    "label": "修華嚴奧旨妄盡還源觀1卷",
+    "license": "http://example.org",
+    "metadata": [
+        {
+            "label": "大正蔵経典番号",
+            "value": "T1876"
+        },
+        {
+            "label": "酉蓮社本経典番号",
+            "value": "U1586"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1625,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/sat_iiif/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image068.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1625,
+                                "width": 2023
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/sat_iiif/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image068.jpg"
+                    },
+                    "width": 2023
+                },
+                {
+                    "@id": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1639,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/sat_iiif/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image069.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1639,
+                                "width": 2021
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/sat_iiif/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image069.jpg"
+                    },
+                    "width": 2021
+                },
+                {
+                    "@id": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1638,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/sat_iiif/iiif/8394/manifest.json/canvas/p3",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/sat_iiif/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1638,
+                                "width": 2021
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/sat_iiif/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg"
+                    },
+                    "width": 2021
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://nakamura196.github.io/sat_iiif/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image068.jpg"
+    },
+    "viewingDirection": "right-to-left"
+}
