@@ -1,0 +1,483 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "酉蓮社",
+    "label": "金光明懺法補助儀1卷",
+    "license": "http://example.org",
+    "metadata": [
+        {
+            "label": "大正蔵経典番号",
+            "value": "T1945"
+        },
+        {
+            "label": "酉蓮社本経典番号",
+            "value": "U1505"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1658,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1658,
+                                "width": 2036
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image001.jpg"
+                    },
+                    "width": 2036
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1664,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1664,
+                                "width": 2040
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image002.jpg"
+                    },
+                    "width": 2040
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1682,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p3",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1682,
+                                "width": 2067
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image003.jpg"
+                    },
+                    "width": 2067
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1681,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p4",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1681,
+                                "width": 2066
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image004.jpg"
+                    },
+                    "width": 2066
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1678,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p5",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image005.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1678,
+                                "width": 2064
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image005.jpg"
+                    },
+                    "width": 2064
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1678,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p6-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p6",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image006.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1678,
+                                "width": 2064
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image006.jpg"
+                    },
+                    "width": 2064
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1679,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p7-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p7",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image007.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1679,
+                                "width": 2064
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image007.jpg"
+                    },
+                    "width": 2064
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1678,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p8-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p8",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image008.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1678,
+                                "width": 2064
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image008.jpg"
+                    },
+                    "width": 2064
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1677,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p9-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p9",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image009.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2063
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image009.jpg"
+                    },
+                    "width": 2063
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1677,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p10-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p10",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image010.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2064
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image010.jpg"
+                    },
+                    "width": 2064
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 1676,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p11-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p11",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image011.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1676,
+                                "width": 2062
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image011.jpg"
+                    },
+                    "width": 2062
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 1676,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p12-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p12",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image012.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1676,
+                                "width": 2064
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image012.jpg"
+                    },
+                    "width": 2064
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 1677,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p13-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p13",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image013.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2063
+                            }
+                        }
+                    ],
+                    "label": "[13]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image013.jpg"
+                    },
+                    "width": 2063
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 1677,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p14-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p14",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image014.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2064
+                            }
+                        }
+                    ],
+                    "label": "[14]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image014.jpg"
+                    },
+                    "width": 2064
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 1677,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p15-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p15",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image015.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2064
+                            }
+                        }
+                    ],
+                    "label": "[15]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image015.jpg"
+                    },
+                    "width": 2064
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 1676,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p16-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p16",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image016.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1676,
+                                "width": 2064
+                            }
+                        }
+                    ],
+                    "label": "[16]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image016.jpg"
+                    },
+                    "width": 2064
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 1675,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p17-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p17",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image017.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1675,
+                                "width": 2064
+                            }
+                        }
+                    ],
+                    "label": "[17]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image017.jpg"
+                    },
+                    "width": 2064
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 1676,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/annotation/p18-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json/canvas/p18",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1505a 金光明懺法補助儀1巻/image018.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1676,
+                                "width": 2066
+                            }
+                        }
+                    ],
+                    "label": "[18]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image018.jpg"
+                    },
+                    "width": 2066
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image001.jpg"
+    },
+    "viewingDirection": "right-to-left"
+}

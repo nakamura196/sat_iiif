@@ -10,7 +10,8 @@ from PIL import Image
 import yaml
 import requests
 
-prefix = "https://nakamura196.github.io/sat_iiif"
+# prefix = "https://nakamura196.github.io/sat_iiif"
+prefix = "https://sat-iiif.s3.amazonaws.com"
 odir = "../../docs"
 path = "data/main3.xlsx"
 

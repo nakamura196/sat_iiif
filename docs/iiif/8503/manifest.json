@@ -1,0 +1,558 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "酉蓮社",
+    "label": "法華經安樂行義1卷",
+    "license": "http://example.org",
+    "metadata": [
+        {
+            "label": "大正蔵経典番号",
+            "value": "T1926"
+        },
+        {
+            "label": "酉蓮社本経典番号",
+            "value": "U1540"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1624,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image056.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1624,
+                                "width": 2008
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image056.jpg"
+                    },
+                    "width": 2008
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1620,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image057.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1620,
+                                "width": 2014
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image057.jpg"
+                    },
+                    "width": 2014
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1616,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p3",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image058.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1616,
+                                "width": 2011
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image058.jpg"
+                    },
+                    "width": 2011
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1625,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p4",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image059.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1625,
+                                "width": 2016
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image059.jpg"
+                    },
+                    "width": 2016
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1618,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p5",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image060.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1618,
+                                "width": 2010
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image060.jpg"
+                    },
+                    "width": 2010
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1623,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p6-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p6",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image061.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1623,
+                                "width": 2011
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image061.jpg"
+                    },
+                    "width": 2011
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1621,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p7-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p7",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image062.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1621,
+                                "width": 2009
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image062.jpg"
+                    },
+                    "width": 2009
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1629,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p8-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p8",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image063.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1629,
+                                "width": 2010
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image063.jpg"
+                    },
+                    "width": 2010
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1622,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p9-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p9",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image064.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1622,
+                                "width": 2006
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image064.jpg"
+                    },
+                    "width": 2006
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1618,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p10-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p10",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image065.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1618,
+                                "width": 2008
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image065.jpg"
+                    },
+                    "width": 2008
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 1611,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p11-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p11",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image066.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1611,
+                                "width": 2008
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image066.jpg"
+                    },
+                    "width": 2008
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 1617,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p12-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p12",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image067.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1617,
+                                "width": 2007
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image067.jpg"
+                    },
+                    "width": 2007
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 1628,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p13-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p13",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image068.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1628,
+                                "width": 2006
+                            }
+                        }
+                    ],
+                    "label": "[13]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image068.jpg"
+                    },
+                    "width": 2006
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 1620,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p14-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p14",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image069.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1620,
+                                "width": 2006
+                            }
+                        }
+                    ],
+                    "label": "[14]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image069.jpg"
+                    },
+                    "width": 2006
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 1613,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p15-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p15",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image070.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1613,
+                                "width": 2008
+                            }
+                        }
+                    ],
+                    "label": "[15]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image070.jpg"
+                    },
+                    "width": 2008
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 1620,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p16-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p16",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image071.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1620,
+                                "width": 2006
+                            }
+                        }
+                    ],
+                    "label": "[16]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image071.jpg"
+                    },
+                    "width": 2006
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 1615,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p17-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p17",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image072.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1615,
+                                "width": 2007
+                            }
+                        }
+                    ],
+                    "label": "[17]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image072.jpg"
+                    },
+                    "width": 2007
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 1617,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p18-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p18",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image073.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1617,
+                                "width": 2005
+                            }
+                        }
+                    ],
+                    "label": "[18]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image073.jpg"
+                    },
+                    "width": 2005
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "height": 1617,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p19-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p19",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image074.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1617,
+                                "width": 2005
+                            }
+                        }
+                    ],
+                    "label": "[19]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image074.jpg"
+                    },
+                    "width": 2005
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "height": 1618,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p20-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p20",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image075.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1618,
+                                "width": 2004
+                            }
+                        }
+                    ],
+                    "label": "[20]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image075.jpg"
+                    },
+                    "width": 2004
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p21",
+                    "@type": "sc:Canvas",
+                    "height": 1568,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/annotation/p21-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json/canvas/p21",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image076.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1568,
+                                "width": 1938
+                            }
+                        }
+                    ],
+                    "label": "[21]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image076.jpg"
+                    },
+                    "width": 1938
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image056.jpg"
+    },
+    "viewingDirection": "right-to-left"
+}

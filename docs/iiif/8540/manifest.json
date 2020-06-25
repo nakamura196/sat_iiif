@@ -1,0 +1,158 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "酉蓮社",
+    "label": "禮法華經儀式1卷",
+    "license": "http://example.org",
+    "metadata": [
+        {
+            "label": "大正蔵経典番号",
+            "value": "T1944"
+        },
+        {
+            "label": "酉蓮社本経典番号",
+            "value": "U1511"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1683,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1511 禮法華經儀式1巻/image001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1683,
+                                "width": 2068
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1511 禮法華經儀式1巻/image001.jpg"
+                    },
+                    "width": 2068
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1685,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1511 禮法華經儀式1巻/image002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1685,
+                                "width": 2070
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1511 禮法華經儀式1巻/image002.jpg"
+                    },
+                    "width": 2070
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1677,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/canvas/p3",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1511 禮法華經儀式1巻/image003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2074
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1511 禮法華經儀式1巻/image003.jpg"
+                    },
+                    "width": 2074
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1678,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/canvas/p4",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1511 禮法華經儀式1巻/image004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1678,
+                                "width": 2070
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1511 禮法華經儀式1巻/image004.jpg"
+                    },
+                    "width": 2070
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1676,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json/canvas/p5",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1511 禮法華經儀式1巻/image005.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1676,
+                                "width": 2074
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1511 禮法華經儀式1巻/image005.jpg"
+                    },
+                    "width": 2074
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1511 禮法華經儀式1巻/image001.jpg"
+    },
+    "viewingDirection": "right-to-left"
+}

@@ -20,7 +20,8 @@ import argparse
 import json
 import urllib.parse
 
-prefix_url = "https://nakamura196.github.io/sat_iiif"
+# prefix_url = "https://nakamura196.github.io/sat_iiif"
+prefix_url = "https://sat-iiif.s3.amazonaws.com"
 prefix_path = "../../docs"
 
 ids = []

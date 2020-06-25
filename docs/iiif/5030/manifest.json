@@ -1,0 +1,258 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "酉蓮社",
+    "label": "聖觀自在菩薩一百八名經1卷",
+    "license": "http://example.org",
+    "metadata": [
+        {
+            "label": "大正蔵経典番号",
+            "value": "T1054"
+        },
+        {
+            "label": "酉蓮社本経典番号",
+            "value": "U0811"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1641,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/0811 聖觀自在菩薩一百八名經1巻/image001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1641,
+                                "width": 2121
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image001.jpg"
+                    },
+                    "width": 2121
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1709,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/0811 聖觀自在菩薩一百八名經1巻/image002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1709,
+                                "width": 2214
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image002.jpg"
+                    },
+                    "width": 2214
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1711,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p3",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/0811 聖觀自在菩薩一百八名經1巻/image003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1711,
+                                "width": 2216
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image003.jpg"
+                    },
+                    "width": 2216
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1708,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p4",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/0811 聖觀自在菩薩一百八名經1巻/image004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1708,
+                                "width": 2212
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image004.jpg"
+                    },
+                    "width": 2212
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1708,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p5",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/0811 聖觀自在菩薩一百八名經1巻/image005.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1708,
+                                "width": 2212
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image005.jpg"
+                    },
+                    "width": 2212
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1714,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/annotation/p6-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p6",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/0811 聖觀自在菩薩一百八名經1巻/image006.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1714,
+                                "width": 2213
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image006.jpg"
+                    },
+                    "width": 2213
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1708,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/annotation/p7-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p7",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/0811 聖觀自在菩薩一百八名經1巻/image007.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1708,
+                                "width": 2214
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image007.jpg"
+                    },
+                    "width": 2214
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1709,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/annotation/p8-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p8",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/0811 聖觀自在菩薩一百八名經1巻/image008.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1709,
+                                "width": 2213
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image008.jpg"
+                    },
+                    "width": 2213
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1643,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/annotation/p9-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json/canvas/p9",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/0811 聖觀自在菩薩一百八名經1巻/image009.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1643,
+                                "width": 2123
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image009.jpg"
+                    },
+                    "width": 2123
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image001.jpg"
+    },
+    "viewingDirection": "right-to-left"
+}

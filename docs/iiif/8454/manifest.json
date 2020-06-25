@@ -1,0 +1,183 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "酉蓮社",
+    "label": "説罪要行法1卷",
+    "license": "http://example.org",
+    "metadata": [
+        {
+            "label": "大正蔵経典番号",
+            "value": "T1903"
+        },
+        {
+            "label": "酉蓮社本経典番号",
+            "value": "U1499"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1568,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1499 説罪要行法1巻/image001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1568,
+                                "width": 1931
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1499 説罪要行法1巻/image001.jpg"
+                    },
+                    "width": 1931
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1576,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1499 説罪要行法1巻/image002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1576,
+                                "width": 1943
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1499 説罪要行法1巻/image002.jpg"
+                    },
+                    "width": 1943
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1578,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p3",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1499 説罪要行法1巻/image003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1578,
+                                "width": 1948
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1499 説罪要行法1巻/image003.jpg"
+                    },
+                    "width": 1948
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1605,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p4",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1499 説罪要行法1巻/image004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1605,
+                                "width": 1960
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1499 説罪要行法1巻/image004.jpg"
+                    },
+                    "width": 1960
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1606,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p5",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1499 説罪要行法1巻/image005.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1606,
+                                "width": 1955
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1499 説罪要行法1巻/image005.jpg"
+                    },
+                    "width": 1955
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1578,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/annotation/p6-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json/canvas/p6",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1499 説罪要行法1巻/image006.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1578,
+                                "width": 1949
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1499 説罪要行法1巻/image006.jpg"
+                    },
+                    "width": 1949
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1499 説罪要行法1巻/image001.jpg"
+    },
+    "viewingDirection": "right-to-left"
+}

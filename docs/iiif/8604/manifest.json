@@ -1,0 +1,283 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "酉蓮社",
+    "label": "淨土境觀要門1卷",
+    "license": "http://example.org",
+    "metadata": [
+        {
+            "label": "大正蔵経典番号",
+            "value": "T1971"
+        },
+        {
+            "label": "酉蓮社本経典番号",
+            "value": "U1580"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1648,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image133.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1648,
+                                "width": 2050
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image133.jpg"
+                    },
+                    "width": 2050
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1599,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image134.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1599,
+                                "width": 2003
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image134.jpg"
+                    },
+                    "width": 2003
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1599,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p3",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image135.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1599,
+                                "width": 2001
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image135.jpg"
+                    },
+                    "width": 2001
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1598,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p4",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image136.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1598,
+                                "width": 1999
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image136.jpg"
+                    },
+                    "width": 1999
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1599,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p5",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image137.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1599,
+                                "width": 1999
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image137.jpg"
+                    },
+                    "width": 1999
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1600,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/annotation/p6-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p6",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image138.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1600,
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image138.jpg"
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1601,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/annotation/p7-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p7",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image139.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1601,
+                                "width": 1999
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image139.jpg"
+                    },
+                    "width": 1999
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1602,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/annotation/p8-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p8",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image140.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1602,
+                                "width": 1998
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image140.jpg"
+                    },
+                    "width": 1998
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1603,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/annotation/p9-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p9",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image141.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1603,
+                                "width": 1998
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image141.jpg"
+                    },
+                    "width": 1998
+                },
+                {
+                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1606,
+                    "images": [
+                        {
+                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/annotation/p10-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json/canvas/p10",
+                            "resource": {
+                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image142.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1606,
+                                "width": 1989
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image142.jpg"
+                    },
+                    "width": 1989
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image133.jpg"
+    },
+    "viewingDirection": "right-to-left"
+}

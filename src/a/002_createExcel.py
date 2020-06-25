@@ -9,7 +9,8 @@ import glob
 import pandas as pd
 import openpyxl
 
-prefix_url = "https://nakamura196.github.io/sat_iiif"
+# prefix_url = "https://nakamura196.github.io/sat_iiif"
+prefix_url = "https://sat-iiif.s3.amazonaws.com"
 prefix_path = "../../docs"
 
 files = glob.glob(prefix_path + "/files/original/*/*.jpg", recursive=True)
