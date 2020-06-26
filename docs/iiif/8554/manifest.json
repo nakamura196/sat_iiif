@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json",
+    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "酉蓮社",
     "label": "熾盛光道場念誦儀1卷",
@@ -15,24 +15,24 @@
             "value": "U1512"
         }
     ],
-    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json",
     "sequences": [
         {
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/sequence/normal",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p1",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1675,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p1-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p1",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p1",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image001.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image001.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1675,
@@ -42,22 +42,22 @@
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image001.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image001.jpg"
                     },
                     "width": 2014
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p2",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 1676,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p2-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p2",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p2",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image002.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image002.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1676,
@@ -67,22 +67,22 @@
                     ],
                     "label": "[2]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image002.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image002.jpg"
                     },
                     "width": 2054
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p3",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 1676,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p3-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p3-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p3",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p3",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image003.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image003.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1676,
@@ -92,22 +92,22 @@
                     ],
                     "label": "[3]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image003.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image003.jpg"
                     },
                     "width": 2018
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p4",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p4",
                     "@type": "sc:Canvas",
                     "height": 1675,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p4-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p4-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p4",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p4",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image004.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image004.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1675,
@@ -117,22 +117,22 @@
                     ],
                     "label": "[4]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image004.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image004.jpg"
                     },
                     "width": 2065
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p5",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p5",
                     "@type": "sc:Canvas",
                     "height": 1676,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p5-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p5-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p5",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p5",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image005.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image005.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1676,
@@ -142,22 +142,22 @@
                     ],
                     "label": "[5]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image005.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image005.jpg"
                     },
                     "width": 2016
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p6",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p6",
                     "@type": "sc:Canvas",
                     "height": 1676,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p6-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p6-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p6",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p6",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image006.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image006.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1676,
@@ -167,22 +167,22 @@
                     ],
                     "label": "[6]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image006.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image006.jpg"
                     },
                     "width": 2100
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p7",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p7",
                     "@type": "sc:Canvas",
                     "height": 1677,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p7-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p7-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p7",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p7",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image007.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image007.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1677,
@@ -192,22 +192,22 @@
                     ],
                     "label": "[7]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image007.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image007.jpg"
                     },
                     "width": 2065
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p8",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p8",
                     "@type": "sc:Canvas",
                     "height": 1676,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p8-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p8-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p8",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p8",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image008.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image008.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1676,
@@ -217,22 +217,22 @@
                     ],
                     "label": "[8]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image008.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image008.jpg"
                     },
                     "width": 2053
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p9",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p9",
                     "@type": "sc:Canvas",
                     "height": 1676,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p9-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p9-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p9",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p9",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image009.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image009.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1676,
@@ -242,22 +242,22 @@
                     ],
                     "label": "[9]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image009.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image009.jpg"
                     },
                     "width": 2100
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p10",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p10",
                     "@type": "sc:Canvas",
                     "height": 1676,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p10-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p10-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p10",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p10",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image010.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image010.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1676,
@@ -267,22 +267,22 @@
                     ],
                     "label": "[10]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image010.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image010.jpg"
                     },
                     "width": 2100
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p11",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p11",
                     "@type": "sc:Canvas",
                     "height": 1677,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p11-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p11-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p11",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p11",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image011.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image011.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1677,
@@ -292,22 +292,22 @@
                     ],
                     "label": "[11]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image011.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image011.jpg"
                     },
                     "width": 2101
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p12",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p12",
                     "@type": "sc:Canvas",
                     "height": 1676,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p12-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p12-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p12",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p12",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image012.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image012.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1676,
@@ -317,22 +317,22 @@
                     ],
                     "label": "[12]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image012.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image012.jpg"
                     },
                     "width": 2066
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p13",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p13",
                     "@type": "sc:Canvas",
                     "height": 1678,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p13-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p13-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p13",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p13",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image013.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image013.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1678,
@@ -342,22 +342,22 @@
                     ],
                     "label": "[13]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image013.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image013.jpg"
                     },
                     "width": 2067
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p14",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p14",
                     "@type": "sc:Canvas",
                     "height": 1677,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p14-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p14-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p14",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p14",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image014.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image014.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1677,
@@ -367,22 +367,22 @@
                     ],
                     "label": "[14]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image014.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image014.jpg"
                     },
                     "width": 2066
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p15",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p15",
                     "@type": "sc:Canvas",
                     "height": 1662,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p15-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p15-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p15",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p15",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image015.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image015.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1662,
@@ -392,22 +392,22 @@
                     ],
                     "label": "[15]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image015.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image015.jpg"
                     },
                     "width": 2037
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p16",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p16",
                     "@type": "sc:Canvas",
                     "height": 1678,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p16-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p16-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p16",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p16",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image016.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image016.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1678,
@@ -417,22 +417,22 @@
                     ],
                     "label": "[16]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image016.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image016.jpg"
                     },
                     "width": 2104
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p17",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p17",
                     "@type": "sc:Canvas",
                     "height": 1678,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p17-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p17-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p17",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p17",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image017.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image017.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1678,
@@ -442,22 +442,22 @@
                     ],
                     "label": "[17]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image017.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image017.jpg"
                     },
                     "width": 2103
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p18",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p18",
                     "@type": "sc:Canvas",
                     "height": 1677,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/annotation/p18-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/annotation/p18-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json/canvas/p18",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json/canvas/p18",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1512 熾盛光道場念誦儀1巻/image018.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1512 熾盛光道場念誦儀1巻/image018.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1677,
@@ -467,7 +467,7 @@
                     ],
                     "label": "[18]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image018.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image018.jpg"
                     },
                     "width": 2104
                 }
@@ -477,7 +477,7 @@
         }
     ],
     "thumbnail": {
-        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image001.jpg"
+        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image001.jpg"
     },
     "viewingDirection": "right-to-left"
 }

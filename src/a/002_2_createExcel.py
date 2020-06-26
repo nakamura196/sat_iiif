@@ -21,7 +21,8 @@ import json
 import urllib.parse
 
 # prefix_url = "https://nakamura196.github.io/sat_iiif"
-prefix_url = "https://sat-iiif.s3.amazonaws.com"
+# prefix_url = "https://sat-iiif.s3.amazonaws.com"
+prefix_url = "https://d1av1vcgsldque.cloudfront.net"
 prefix_path = "../../docs"
 
 ids = []

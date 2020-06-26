@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json",
+    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "酉蓮社",
     "label": "諸法無諍三昧法門2卷",
@@ -15,24 +15,24 @@
             "value": "U1536"
         }
     ],
-    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json",
     "sequences": [
         {
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/sequence/normal",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p1",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1639,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p1-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p1",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p1",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image096.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image096.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1639,
@@ -42,22 +42,22 @@
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image096.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image096.jpg"
                     },
                     "width": 2050
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p2",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 1633,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p2-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p2",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p2",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image097.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image097.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1633,
@@ -67,22 +67,22 @@
                     ],
                     "label": "[2]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image097.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image097.jpg"
                     },
                     "width": 2039
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p3",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 1624,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p3-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p3-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p3",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p3",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image098.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image098.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1624,
@@ -92,22 +92,22 @@
                     ],
                     "label": "[3]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image098.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image098.jpg"
                     },
                     "width": 2005
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p4",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p4",
                     "@type": "sc:Canvas",
                     "height": 1618,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p4-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p4-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p4",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p4",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image099.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image099.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1618,
@@ -117,22 +117,22 @@
                     ],
                     "label": "[4]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image099.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image099.jpg"
                     },
                     "width": 2014
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p5",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p5",
                     "@type": "sc:Canvas",
                     "height": 1614,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p5-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p5-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p5",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p5",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image100.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image100.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1614,
@@ -142,22 +142,22 @@
                     ],
                     "label": "[5]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image100.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image100.jpg"
                     },
                     "width": 2027
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p6",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p6",
                     "@type": "sc:Canvas",
                     "height": 1614,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p6-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p6-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p6",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p6",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image101.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image101.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1614,
@@ -167,22 +167,22 @@
                     ],
                     "label": "[6]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image101.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image101.jpg"
                     },
                     "width": 2019
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p7",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p7",
                     "@type": "sc:Canvas",
                     "height": 1611,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p7-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p7-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p7",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p7",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image102.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image102.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1611,
@@ -192,22 +192,22 @@
                     ],
                     "label": "[7]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image102.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image102.jpg"
                     },
                     "width": 2024
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p8",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p8",
                     "@type": "sc:Canvas",
                     "height": 1614,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p8-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p8-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p8",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p8",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image103.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image103.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1614,
@@ -217,22 +217,22 @@
                     ],
                     "label": "[8]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image103.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image103.jpg"
                     },
                     "width": 2027
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p9",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p9",
                     "@type": "sc:Canvas",
                     "height": 1606,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p9-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p9-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p9",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p9",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image104.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image104.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1606,
@@ -242,22 +242,22 @@
                     ],
                     "label": "[9]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image104.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image104.jpg"
                     },
                     "width": 2025
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p10",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p10",
                     "@type": "sc:Canvas",
                     "height": 1620,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p10-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p10-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p10",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p10",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image105.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image105.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1620,
@@ -267,22 +267,22 @@
                     ],
                     "label": "[10]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image105.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image105.jpg"
                     },
                     "width": 2010
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p11",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p11",
                     "@type": "sc:Canvas",
                     "height": 1608,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p11-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p11-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p11",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p11",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image106.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image106.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1608,
@@ -292,22 +292,22 @@
                     ],
                     "label": "[11]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image106.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image106.jpg"
                     },
                     "width": 2010
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p12",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p12",
                     "@type": "sc:Canvas",
                     "height": 1617,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p12-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p12-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p12",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p12",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image107.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image107.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1617,
@@ -317,22 +317,22 @@
                     ],
                     "label": "[12]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image107.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image107.jpg"
                     },
                     "width": 2009
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p13",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p13",
                     "@type": "sc:Canvas",
                     "height": 1615,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p13-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p13-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p13",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p13",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image108.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image108.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1615,
@@ -342,22 +342,22 @@
                     ],
                     "label": "[13]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image108.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image108.jpg"
                     },
                     "width": 2011
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p14",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p14",
                     "@type": "sc:Canvas",
                     "height": 1611,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p14-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p14-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p14",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p14",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image109.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image109.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1611,
@@ -367,22 +367,22 @@
                     ],
                     "label": "[14]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image109.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image109.jpg"
                     },
                     "width": 2018
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p15",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p15",
                     "@type": "sc:Canvas",
                     "height": 1610,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p15-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p15-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p15",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p15",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image110.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image110.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1610,
@@ -392,22 +392,22 @@
                     ],
                     "label": "[15]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image110.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image110.jpg"
                     },
                     "width": 2018
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p16",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p16",
                     "@type": "sc:Canvas",
                     "height": 1604,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p16-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p16-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p16",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p16",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image111.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image111.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1604,
@@ -417,22 +417,22 @@
                     ],
                     "label": "[16]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image111.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image111.jpg"
                     },
                     "width": 2010
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p17",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p17",
                     "@type": "sc:Canvas",
                     "height": 1610,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p17-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p17-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p17",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p17",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image112.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image112.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1610,
@@ -442,22 +442,22 @@
                     ],
                     "label": "[17]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image112.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image112.jpg"
                     },
                     "width": 2014
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p18",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p18",
                     "@type": "sc:Canvas",
                     "height": 1600,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p18-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p18-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p18",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p18",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image113.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image113.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1600,
@@ -467,22 +467,22 @@
                     ],
                     "label": "[18]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image113.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image113.jpg"
                     },
                     "width": 2012
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p19",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p19",
                     "@type": "sc:Canvas",
                     "height": 1606,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p19-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p19-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p19",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p19",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image114.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image114.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1606,
@@ -492,22 +492,22 @@
                     ],
                     "label": "[19]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image114.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image114.jpg"
                     },
                     "width": 2017
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p20",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p20",
                     "@type": "sc:Canvas",
                     "height": 1610,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p20-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p20-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p20",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p20",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image115.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image115.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1610,
@@ -517,22 +517,22 @@
                     ],
                     "label": "[20]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image115.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image115.jpg"
                     },
                     "width": 2010
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p21",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p21",
                     "@type": "sc:Canvas",
                     "height": 1601,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p21-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p21-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p21",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p21",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image116.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image116.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1601,
@@ -542,22 +542,22 @@
                     ],
                     "label": "[21]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image116.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image116.jpg"
                     },
                     "width": 2009
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p22",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p22",
                     "@type": "sc:Canvas",
                     "height": 1612,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p22-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p22-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p22",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p22",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image117.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image117.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1612,
@@ -567,22 +567,22 @@
                     ],
                     "label": "[22]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image117.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image117.jpg"
                     },
                     "width": 2018
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p23",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p23",
                     "@type": "sc:Canvas",
                     "height": 1607,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p23-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p23-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p23",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p23",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image118.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image118.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1607,
@@ -592,22 +592,22 @@
                     ],
                     "label": "[23]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image118.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image118.jpg"
                     },
                     "width": 2014
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p24",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p24",
                     "@type": "sc:Canvas",
                     "height": 1610,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p24-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p24-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p24",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p24",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image119.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image119.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1610,
@@ -617,22 +617,22 @@
                     ],
                     "label": "[24]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image119.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image119.jpg"
                     },
                     "width": 2013
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p25",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p25",
                     "@type": "sc:Canvas",
                     "height": 1613,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p25-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p25-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p25",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p25",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image120.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image120.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1613,
@@ -642,22 +642,22 @@
                     ],
                     "label": "[25]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image120.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image120.jpg"
                     },
                     "width": 2017
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p26",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p26",
                     "@type": "sc:Canvas",
                     "height": 1604,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p26-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p26-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p26",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p26",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image121.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image121.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1604,
@@ -667,22 +667,22 @@
                     ],
                     "label": "[26]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image121.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image121.jpg"
                     },
                     "width": 2012
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p27",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p27",
                     "@type": "sc:Canvas",
                     "height": 1612,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p27-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p27-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p27",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p27",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image122.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image122.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1612,
@@ -692,22 +692,22 @@
                     ],
                     "label": "[27]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image122.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image122.jpg"
                     },
                     "width": 2018
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p28",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p28",
                     "@type": "sc:Canvas",
                     "height": 1616,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p28-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p28-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p28",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p28",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image123.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image123.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1616,
@@ -717,22 +717,22 @@
                     ],
                     "label": "[28]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image123.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image123.jpg"
                     },
                     "width": 2019
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p29",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p29",
                     "@type": "sc:Canvas",
                     "height": 1615,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p29-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p29-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p29",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p29",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image124.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image124.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1615,
@@ -742,22 +742,22 @@
                     ],
                     "label": "[29]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image124.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image124.jpg"
                     },
                     "width": 2018
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p30",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p30",
                     "@type": "sc:Canvas",
                     "height": 1616,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p30-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p30-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p30",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p30",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image125.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image125.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1616,
@@ -767,22 +767,22 @@
                     ],
                     "label": "[30]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image125.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image125.jpg"
                     },
                     "width": 2019
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p31",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p31",
                     "@type": "sc:Canvas",
                     "height": 1616,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p31-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p31-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p31",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p31",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image126.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image126.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1616,
@@ -792,22 +792,22 @@
                     ],
                     "label": "[31]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image126.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image126.jpg"
                     },
                     "width": 2020
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p32",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p32",
                     "@type": "sc:Canvas",
                     "height": 1619,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p32-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p32-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p32",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p32",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image127.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image127.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1619,
@@ -817,22 +817,22 @@
                     ],
                     "label": "[32]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image127.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image127.jpg"
                     },
                     "width": 2020
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p33",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p33",
                     "@type": "sc:Canvas",
                     "height": 1618,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p33-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p33-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p33",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p33",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image128.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image128.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1618,
@@ -842,22 +842,22 @@
                     ],
                     "label": "[33]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image128.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image128.jpg"
                     },
                     "width": 2015
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p34",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p34",
                     "@type": "sc:Canvas",
                     "height": 1612,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p34-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p34-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p34",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p34",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image129.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image129.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1612,
@@ -867,22 +867,22 @@
                     ],
                     "label": "[34]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image129.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image129.jpg"
                     },
                     "width": 2012
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p35",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p35",
                     "@type": "sc:Canvas",
                     "height": 1603,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p35-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p35-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p35",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p35",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image130.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image130.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1603,
@@ -892,22 +892,22 @@
                     ],
                     "label": "[35]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image130.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image130.jpg"
                     },
                     "width": 2002
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p36",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p36",
                     "@type": "sc:Canvas",
                     "height": 1603,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p36-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p36-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p36",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p36",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image131.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image131.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1603,
@@ -917,22 +917,22 @@
                     ],
                     "label": "[36]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image131.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image131.jpg"
                     },
                     "width": 2002
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p37",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p37",
                     "@type": "sc:Canvas",
                     "height": 1601,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p37-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p37-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p37",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p37",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image132.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image132.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1601,
@@ -942,22 +942,22 @@
                     ],
                     "label": "[37]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image132.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image132.jpg"
                     },
                     "width": 2003
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p38",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p38",
                     "@type": "sc:Canvas",
                     "height": 1599,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p38-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p38-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p38",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p38",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image133.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image133.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1599,
@@ -967,22 +967,22 @@
                     ],
                     "label": "[38]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image133.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image133.jpg"
                     },
                     "width": 1998
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p39",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p39",
                     "@type": "sc:Canvas",
                     "height": 1601,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p39-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p39-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p39",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p39",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image134.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image134.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1601,
@@ -992,22 +992,22 @@
                     ],
                     "label": "[39]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image134.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image134.jpg"
                     },
                     "width": 1997
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p40",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p40",
                     "@type": "sc:Canvas",
                     "height": 1602,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p40-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p40-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p40",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p40",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image135.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image135.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1602,
@@ -1017,22 +1017,22 @@
                     ],
                     "label": "[40]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image135.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image135.jpg"
                     },
                     "width": 1996
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p41",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p41",
                     "@type": "sc:Canvas",
                     "height": 1601,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p41-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p41-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p41",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p41",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image136.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image136.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1601,
@@ -1042,22 +1042,22 @@
                     ],
                     "label": "[41]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image136.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image136.jpg"
                     },
                     "width": 1997
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p42",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p42",
                     "@type": "sc:Canvas",
                     "height": 1600,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p42-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p42-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p42",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p42",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image137.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image137.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1600,
@@ -1067,22 +1067,22 @@
                     ],
                     "label": "[42]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image137.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image137.jpg"
                     },
                     "width": 1996
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p43",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p43",
                     "@type": "sc:Canvas",
                     "height": 1598,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p43-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p43-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p43",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p43",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image138.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image138.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1598,
@@ -1092,22 +1092,22 @@
                     ],
                     "label": "[43]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image138.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image138.jpg"
                     },
                     "width": 1995
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p44",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p44",
                     "@type": "sc:Canvas",
                     "height": 1601,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p44-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p44-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p44",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p44",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image139.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image139.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1601,
@@ -1117,22 +1117,22 @@
                     ],
                     "label": "[44]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image139.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image139.jpg"
                     },
                     "width": 1994
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p45",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p45",
                     "@type": "sc:Canvas",
                     "height": 1598,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p45-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p45-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p45",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p45",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image140.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image140.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1598,
@@ -1142,22 +1142,22 @@
                     ],
                     "label": "[45]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image140.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image140.jpg"
                     },
                     "width": 1994
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p46",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p46",
                     "@type": "sc:Canvas",
                     "height": 1599,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p46-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p46-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p46",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p46",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image141.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image141.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1599,
@@ -1167,22 +1167,22 @@
                     ],
                     "label": "[46]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image141.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image141.jpg"
                     },
                     "width": 1994
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p47",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p47",
                     "@type": "sc:Canvas",
                     "height": 1600,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p47-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p47-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p47",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p47",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image142.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image142.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1600,
@@ -1192,22 +1192,22 @@
                     ],
                     "label": "[47]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image142.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image142.jpg"
                     },
                     "width": 1993
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p48",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p48",
                     "@type": "sc:Canvas",
                     "height": 1599,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p48-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p48-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p48",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p48",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image143.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image143.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1599,
@@ -1217,22 +1217,22 @@
                     ],
                     "label": "[48]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image143.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image143.jpg"
                     },
                     "width": 1993
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p49",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p49",
                     "@type": "sc:Canvas",
                     "height": 1600,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p49-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p49-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p49",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p49",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image144.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image144.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1600,
@@ -1242,22 +1242,22 @@
                     ],
                     "label": "[49]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image144.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image144.jpg"
                     },
                     "width": 1993
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p50",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p50",
                     "@type": "sc:Canvas",
                     "height": 1603,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p50-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p50-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p50",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p50",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image145.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image145.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1603,
@@ -1267,22 +1267,22 @@
                     ],
                     "label": "[50]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image145.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image145.jpg"
                     },
                     "width": 1992
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p51",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p51",
                     "@type": "sc:Canvas",
                     "height": 1602,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p51-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p51-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p51",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p51",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image146.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image146.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1602,
@@ -1292,22 +1292,22 @@
                     ],
                     "label": "[51]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image146.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image146.jpg"
                     },
                     "width": 1991
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p52",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p52",
                     "@type": "sc:Canvas",
                     "height": 1601,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p52-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p52-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p52",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p52",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image147.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image147.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1601,
@@ -1317,22 +1317,22 @@
                     ],
                     "label": "[52]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image147.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image147.jpg"
                     },
                     "width": 1991
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p53",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p53",
                     "@type": "sc:Canvas",
                     "height": 1603,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p53-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p53-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p53",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p53",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image148.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image148.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1603,
@@ -1342,22 +1342,22 @@
                     ],
                     "label": "[53]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image148.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image148.jpg"
                     },
                     "width": 1989
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p54",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p54",
                     "@type": "sc:Canvas",
                     "height": 1599,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/annotation/p54-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/annotation/p54-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json/canvas/p54",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json/canvas/p54",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image149.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image149.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1599,
@@ -1367,7 +1367,7 @@
                     ],
                     "label": "[54]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image149.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image149.jpg"
                     },
                     "width": 1980
                 }
@@ -1377,7 +1377,7 @@
         }
     ],
     "thumbnail": {
-        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image096.jpg"
+        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image096.jpg"
     },
     "viewingDirection": "right-to-left"
 }

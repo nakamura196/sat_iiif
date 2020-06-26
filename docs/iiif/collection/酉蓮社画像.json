@@ -1,645 +1,645 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/collection/酉蓮社画像.json",
+    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/collection/酉蓮社画像.json",
     "@type": "sc:Collection",
     "label": "酉蓮社画像",
     "manifests": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8021/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8021/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説四十二章經1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/0674 佛説四十二章經1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/0674 佛説四十二章經1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/5030/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/5030/manifest.json",
             "@type": "sc:Manifest",
             "label": "聖觀自在菩薩一百八名經1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/0811 聖觀自在菩薩一百八名經1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/0811 聖觀自在菩薩一百八名經1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8456/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8456/manifest.json",
             "@type": "sc:Manifest",
             "label": "出家授近圓羯磨儀範1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1132a 出家授近圓羯磨儀範1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1132a 出家授近圓羯磨儀範1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8458/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8458/manifest.json",
             "@type": "sc:Manifest",
             "label": "根本説一切有部苾芻習學畧法1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1132b 根本説一切有部苾芻習學畧法1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1132b 根本説一切有部苾芻習學畧法1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/4309/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/4309/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛頂一切如來眞實攝大乘現證大教王經2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1348 金剛頂一切如來眞實攝大乘現證大教王經2巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1348 金剛頂一切如來眞實攝大乘現證大教王經2巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8562/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8562/manifest.json",
             "@type": "sc:Manifest",
             "label": "顯密圓通成佛心要集2卷坿供物利生儀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1470 顯密圓通成佛心要集2巻坿供物利生儀1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1470 顯密圓通成佛心要集2巻坿供物利生儀1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8564/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8564/manifest.json",
             "@type": "sc:Manifest",
             "label": "密呪圓因往生集1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1471 密呪圓因往生集1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1471 密呪圓因往生集1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8454/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8454/manifest.json",
             "@type": "sc:Manifest",
             "label": "説罪要行法1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1499 説罪要行法1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1499 説罪要行法1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8452/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8452/manifest.json",
             "@type": "sc:Manifest",
             "label": "受用三水要行法1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1500 受用三水要行法1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1500 受用三水要行法1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8450/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8450/manifest.json",
             "@type": "sc:Manifest",
             "label": "護命放生軌儀法1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1501 護命放生軌儀法1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1501 護命放生軌儀法1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8468/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8468/manifest.json",
             "@type": "sc:Manifest",
             "label": "慈悲道場懺法10卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1502 慈悲道場懺法10巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1502 慈悲道場懺法10巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8534/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8534/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華三昧懺儀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1503 法華三昧懺儀1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1503 法華三昧懺儀1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8536/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8536/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華三昧行事運想補助儀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1504 法華三昧行事運想補助儀1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1504 法華三昧行事運想補助儀1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8542/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8542/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明懺法補助儀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1505a 金光明懺法補助儀1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1505a 金光明懺法補助儀1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8538/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8538/manifest.json",
             "@type": "sc:Manifest",
             "label": "略法華三昧補助儀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1505b 略法華三昧補助儀1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1505b 略法華三昧補助儀1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8633/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8633/manifest.json",
             "@type": "sc:Manifest",
             "label": "往生淨土懺願儀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1506 往生淨土懺願儀1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1506 往生淨土懺願儀1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8596/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8596/manifest.json",
             "@type": "sc:Manifest",
             "label": "往生淨土決疑行願二門1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1507 往生淨土決疑行願二門1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1507 往生淨土決疑行願二門1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8550/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8550/manifest.json",
             "@type": "sc:Manifest",
             "label": "請觀世音菩薩消伏毒害陀羅尼三昧儀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1508 請觀世音菩薩消伏毒害陀羅尼三昧儀1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1508 請觀世音菩薩消伏毒害陀羅尼三昧儀1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8544/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8544/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明最勝懺儀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1509 金光明最勝懺儀1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1509 金光明最勝懺儀1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8552/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8552/manifest.json",
             "@type": "sc:Manifest",
             "label": "千手眼大悲心呪行法1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1510 千手眼大悲心呪行法1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1510 千手眼大悲心呪行法1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8540/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8540/manifest.json",
             "@type": "sc:Manifest",
             "label": "禮法華經儀式1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1511 禮法華經儀式1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1511 禮法華經儀式1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8554/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8554/manifest.json",
             "@type": "sc:Manifest",
             "label": "熾盛光道場念誦儀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1512 熾盛光道場念誦儀1巻/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1512 熾盛光道場念誦儀1巻/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8546/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8546/manifest.json",
             "@type": "sc:Manifest",
             "label": "釋迦如來涅槃禮讚文1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1513 釋迦如來涅槃禮讚文1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1513 釋迦如來涅槃禮讚文1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8556/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8556/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀自在菩薩如意輪呪課法1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1514 觀自在菩薩如意輪呪課法1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1514 觀自在菩薩如意輪呪課法1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8548/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8548/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台智者大師齋忌禮讚文1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1515 天台智者大師齋忌禮讚文1卷(実資料上ではこちらが1514の前）/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1515 天台智者大師齋忌禮讚文1卷(実資料上ではこちらが1514の前）/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8469/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8469/manifest.json",
             "@type": "sc:Manifest",
             "label": "慈悲水懺灋3卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1516 慈悲水懺灋3卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1516 慈悲水懺灋3卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8700/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8700/manifest.json",
             "@type": "sc:Manifest",
             "label": "六祖大師法寶壇經1卷坿六祖大師縁起外紀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1518 六祖大師法寶壇經1卷坿六祖大師縁起外紀1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1518 六祖大師法寶壇經1卷坿六祖大師縁起外紀1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8668/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8668/manifest.json",
             "@type": "sc:Manifest",
             "label": "明覺禪師語録6卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1520 明覺禪師語録6卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1520 明覺禪師語録6卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8993/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8993/manifest.json",
             "@type": "sc:Manifest",
             "label": "傳法正宗論2卷坿音釋",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1521 傳法正宗論2卷坿音釋/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1521 傳法正宗論2卷坿音釋/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8670/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8670/manifest.json",
             "@type": "sc:Manifest",
             "label": "圓悟佛果禪師語録20卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1524 圓悟佛果禪師語録20卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1524 圓悟佛果禪師語録20卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8675/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8675/manifest.json",
             "@type": "sc:Manifest",
             "label": "大慧普覺禪師宗門武庫1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1525a 大慧普覺禪師宗門武庫1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1525a 大慧普覺禪師宗門武庫1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8672/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8672/manifest.json",
             "@type": "sc:Manifest",
             "label": "大慧普覺禪師語録30卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1525b 大慧普覺禪師語録30卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1525b 大慧普覺禪師語録30卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7844/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7844/manifest.json",
             "@type": "sc:Manifest",
             "label": "妙法蓮華經玄義10卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1527 妙法蓮華經玄義10卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1527 妙法蓮華經玄義10卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7846/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7846/manifest.json",
             "@type": "sc:Manifest",
             "label": "妙法蓮華經玄義10卷(妙法蓮華經玄籤)",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1528 妙法蓮華經玄義10卷(妙法蓮華經玄籤)/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1528 妙法蓮華經玄義10卷(妙法蓮華經玄籤)/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7848/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7848/manifest.json",
             "@type": "sc:Manifest",
             "label": "妙法蓮華經文句10卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1529 妙法蓮華經文句10卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1529 妙法蓮華經文句10卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7850/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7850/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華文句記10卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1530 法華文句記10卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1530 法華文句記10卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8471/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8471/manifest.json",
             "@type": "sc:Manifest",
             "label": "摩訶止觀10卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1531 摩訶止觀10卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1531 摩訶止觀10卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8474/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8474/manifest.json",
             "@type": "sc:Manifest",
             "label": "止觀輔行傳弘決10卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1532 止觀輔行傳弘決10卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1532 止觀輔行傳弘決10卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8481/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8481/manifest.json",
             "@type": "sc:Manifest",
             "label": "修習止觀坐禪法要1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1533 修習止觀坐禪法要1卷 1534 止觀義例2卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1533 修習止觀坐禪法要1卷 1534 止觀義例2卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8477/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8477/manifest.json",
             "@type": "sc:Manifest",
             "label": "止觀義例2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1533 修習止觀坐禪法要1卷 1534 止觀義例2卷/image074.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1533 修習止觀坐禪法要1卷 1534 止觀義例2卷/image074.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8499/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8499/manifest.json",
             "@type": "sc:Manifest",
             "label": "大乘止觀法門4卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8497/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8497/manifest.json",
             "@type": "sc:Manifest",
             "label": "諸法無諍三昧法門2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image096.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1535 大乘止觀法門4卷 1536 諸法無諍三昧法門2卷/image096.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7961/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7961/manifest.json",
             "@type": "sc:Manifest",
             "label": "大般涅槃經疏33卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1538 大般涅槃經疏33卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1538 大般涅槃經疏33卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7957/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7957/manifest.json",
             "@type": "sc:Manifest",
             "label": "大般涅槃經玄義2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8503/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8503/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華經安樂行義1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image056.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1537 大般涅槃經玄義2卷 1540 法華經安樂行義1卷/image056.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7996/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7996/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明經玄義（U1542拾遺記から本文を抽出）",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1541 1542 金光明經玄義拾遺記2卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1541 1542 金光明經玄義拾遺記2卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7998/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7998/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明經玄義拾遺記2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1541 1542 金光明經玄義拾遺記2卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1541 1542 金光明經玄義拾遺記2卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7805/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7805/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛般若經疏1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1543 金剛般若經疏1卷 1544 天台四教儀1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1543 金剛般若經疏1卷 1544 天台四教儀1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8514/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8514/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台四教儀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1543 金剛般若經疏1卷 1544 天台四教儀1卷/image033.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1543 金剛般若經疏1卷 1544 天台四教儀1卷/image033.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8000/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8000/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明經文句（U1546文句記から抽出）",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1545 1546 金光明經文句文句記8卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1545 1546 金光明經文句文句記8卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8004/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8004/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明經文句文句記8卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1545 1546 金光明經文句文句記8卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1545 1546 金光明經文句文句記8卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8070/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8070/manifest.json",
             "@type": "sc:Manifest",
             "label": "菩薩戒義疏2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1547 菩薩戒義疏2卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1547 菩薩戒義疏2卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7869/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7869/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音玄義2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1548 觀音玄義2卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1548 觀音玄義2卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7871/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7871/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音玄義記4卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1549 觀音玄義記4卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1549 觀音玄義記4卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7873/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7873/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音義疏2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1550 觀音義疏2卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1550 觀音義疏2卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7875/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7875/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音義疏記4卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1551 觀音義疏記4卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1551 觀音義疏記4卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7923/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7923/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説觀無量壽佛經疏1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1552 佛説觀無量壽佛經疏1卷 1553 觀無量壽佛經疏妙宗鈔6卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1552 佛説觀無量壽佛經疏1卷 1553 觀無量壽佛經疏妙宗鈔6卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7925/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7925/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀無量壽佛經疏妙宗鈔6卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1552 佛説觀無量壽佛經疏1卷 1553 觀無量壽佛經疏妙宗鈔6卷/image033.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1552 佛説觀無量壽佛經疏1卷 1553 觀無量壽佛經疏妙宗鈔6卷/image033.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8037/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8037/manifest.json",
             "@type": "sc:Manifest",
             "label": "請觀音經疏1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1555 請觀音經疏1卷 1556 請觀音經疏闡義鈔4卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1555 請觀音經疏1卷 1556 請觀音經疏闡義鈔4卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8039/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8039/manifest.json",
             "@type": "sc:Manifest",
             "label": "請觀音經疏闡義鈔4卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1555 請觀音經疏1卷 1556 請觀音經疏闡義鈔4卷/image036.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1555 請觀音經疏1卷 1556 請觀音經疏闡義鈔4卷/image036.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8495/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8495/manifest.json",
             "@type": "sc:Manifest",
             "label": "釋摩訶般若波羅蜜經覺意三昧1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1557 釋摩訶般若波羅蜜經覺意三昧1卷 1558 四念處4卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1557 釋摩訶般若波羅蜜經覺意三昧1卷 1558 四念處4卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8487/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8487/manifest.json",
             "@type": "sc:Manifest",
             "label": "四念處4卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1557 釋摩訶般若波羅蜜經覺意三昧1卷 1558 四念處4卷/image028.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1557 釋摩訶般若波羅蜜經覺意三昧1卷 1558 四念處4卷/image028.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7819/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7819/manifest.json",
             "@type": "sc:Manifest",
             "label": "仁王護國般若經疏5卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1559 仁王護國般若經疏5卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1559 仁王護國般若經疏5卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7822/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7822/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説仁王護國般若波羅蜜經疏神寶記4卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1560 佛説仁王護國般若波羅蜜經疏神寶記4卷 1561 天台八教大意1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1560 佛説仁王護國般若波羅蜜經疏神寶記4卷 1561 天台八教大意1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8512/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8512/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台八教大意1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1560 佛説仁王護國般若波羅蜜經疏神寶記4卷 1561 天台八教大意1卷/image108.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1560 佛説仁王護國般若波羅蜜經疏神寶記4卷 1561 天台八教大意1卷/image108.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8510/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8510/manifest.json",
             "@type": "sc:Manifest",
             "label": "四教義6卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1562 四教義6卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1562 四教義6卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8520/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8520/manifest.json",
             "@type": "sc:Manifest",
             "label": "國淸百録4卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1563 國淸百録4卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1563 國淸百録4卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8483/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8483/manifest.json",
             "@type": "sc:Manifest",
             "label": "釋禪波羅蜜次第法門10卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1564 釋禪波羅蜜次第法門10卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1564 釋禪波羅蜜次第法門10卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8501/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8501/manifest.json",
             "@type": "sc:Manifest",
             "label": "法界次第初門3卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1565 法界次第初門3卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1565 法界次第初門3卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8532/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8532/manifest.json",
             "@type": "sc:Manifest",
             "label": "方等三昧行法1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1566 方等三昧行法1卷 1567 淨土十疑論1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1566 方等三昧行法1卷 1567 淨土十疑論1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8582/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8582/manifest.json",
             "@type": "sc:Manifest",
             "label": "淨土十疑論1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1566 方等三昧行法1卷 1567 淨土十疑論1卷/image025.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1566 方等三昧行法1卷 1567 淨土十疑論1卷/image025.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8493/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8493/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀心論疏5卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1568 觀心論疏5卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1568 觀心論疏5卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8713/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8713/manifest.json",
             "@type": "sc:Manifest",
             "label": "禪宗永嘉集1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1578 禪宗永嘉集1卷 1578 無相大師行状1卷永嘉證道歌1卷/image004.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1578 禪宗永嘉集1卷 1578 無相大師行状1卷永嘉證道歌1卷/image004.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8715/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8715/manifest.json",
             "@type": "sc:Manifest",
             "label": "無相大師行状1卷永嘉證道歌1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1578 禪宗永嘉集1卷 1578 無相大師行状1卷永嘉證道歌1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1578 禪宗永嘉集1卷 1578 無相大師行状1卷永嘉證道歌1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8507/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8507/manifest.json",
             "@type": "sc:Manifest",
             "label": "十不二門指要鈔2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8516/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8516/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛錍1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image060.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image060.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8522/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8522/manifest.json",
             "@type": "sc:Manifest",
             "label": "法智遺編觀心二百問1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image098.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image098.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8528/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8528/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台傳佛心印記1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image123.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image123.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8604/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8604/manifest.json",
             "@type": "sc:Manifest",
             "label": "淨土境觀要門1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image133.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1575 十不二門指要鈔2卷 - 1580 淨土境觀要門1卷/image133.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7891/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7891/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣佛華嚴經疏60卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1582 大方廣佛華嚴經疏60卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1582 大方廣佛華嚴經疏60卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7893/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7893/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣佛華嚴經隨疏演義鈔90卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1583 大方廣佛華嚴經隨疏演義鈔90卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1583 大方廣佛華嚴經隨疏演義鈔90卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8371/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8371/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴一乘教義分齊章4卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1584 華嚴一乘教義分齊章4卷(大破)/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1584 華嚴一乘教義分齊章4卷(大破)/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8390/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8390/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴經明法品内立三寶章2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8394/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8394/manifest.json",
             "@type": "sc:Manifest",
             "label": "修華嚴奧旨妄盡還源觀1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image068.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image068.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json",
             "@type": "sc:Manifest",
             "label": "原人論1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8383/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8383/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴經旨歸1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image083.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image083.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json",
             "@type": "sc:Manifest",
             "label": "注華嚴法界觀門1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8093/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8093/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛遺教經論疏節要1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image027.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image027.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8410/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8410/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴法界玄鏡2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1591 華嚴法界玄鏡2卷 1592 般若波羅蜜多心經略疏1卷 1593 般若心經略疏連珠記2卷/image001.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1591 華嚴法界玄鏡2卷 1592 般若波羅蜜多心經略疏1卷 1593 般若心經略疏連珠記2卷/image001.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7835/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7835/manifest.json",
             "@type": "sc:Manifest",
             "label": "般若波羅蜜多心經略疏1卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1591 華嚴法界玄鏡2卷 1592 般若波羅蜜多心經略疏1卷 1593 般若心經略疏連珠記2卷/image042.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1591 華嚴法界玄鏡2卷 1592 般若波羅蜜多心經略疏1卷 1593 般若心經略疏連珠記2卷/image042.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/7837/manifest.json",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/7837/manifest.json",
             "@type": "sc:Manifest",
             "label": "般若心經略疏連珠記2卷",
-            "thumbnail": "https://sat-iiif.s3.amazonaws.com/files/medium/1591 華嚴法界玄鏡2卷 1592 般若波羅蜜多心經略疏1卷 1593 般若心經略疏連珠記2卷/image055.jpg"
+            "thumbnail": "https://d1av1vcgsldque.cloudfront.net/files/medium/1591 華嚴法界玄鏡2卷 1592 般若波羅蜜多心經略疏1卷 1593 般若心經略疏連珠記2卷/image055.jpg"
         }
     ],
     "vhint": "use-thumb"

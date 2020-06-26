@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json",
+    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "酉蓮社",
     "label": "注華嚴法界觀門1卷",
@@ -15,24 +15,24 @@
             "value": "U1589"
         }
     ],
-    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json",
     "sequences": [
         {
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/sequence/normal",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p1",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1569,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p1-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p1",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p1",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image001.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image001.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1569,
@@ -42,22 +42,22 @@
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image001.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image001.jpg"
                     },
                     "width": 1938
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p2",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 1569,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p2-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p2",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p2",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image002.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image002.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1569,
@@ -67,22 +67,22 @@
                     ],
                     "label": "[2]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image002.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image002.jpg"
                     },
                     "width": 1939
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p3",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 1570,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p3-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p3-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p3",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p3",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image003.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image003.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1570,
@@ -92,22 +92,22 @@
                     ],
                     "label": "[3]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image003.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image003.jpg"
                     },
                     "width": 1941
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p4",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p4",
                     "@type": "sc:Canvas",
                     "height": 1570,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p4-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p4-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p4",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p4",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image004.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image004.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1570,
@@ -117,22 +117,22 @@
                     ],
                     "label": "[4]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image004.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image004.jpg"
                     },
                     "width": 1943
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p5",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p5",
                     "@type": "sc:Canvas",
                     "height": 1570,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p5-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p5-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p5",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p5",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image005.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image005.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1570,
@@ -142,22 +142,22 @@
                     ],
                     "label": "[5]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image005.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image005.jpg"
                     },
                     "width": 1943
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p6",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p6",
                     "@type": "sc:Canvas",
                     "height": 1568,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p6-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p6-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p6",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p6",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image006.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image006.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1568,
@@ -167,22 +167,22 @@
                     ],
                     "label": "[6]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image006.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image006.jpg"
                     },
                     "width": 1943
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p7",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p7",
                     "@type": "sc:Canvas",
                     "height": 1568,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p7-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p7-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p7",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p7",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image007.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image007.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1568,
@@ -192,22 +192,22 @@
                     ],
                     "label": "[7]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image007.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image007.jpg"
                     },
                     "width": 1945
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p8",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p8",
                     "@type": "sc:Canvas",
                     "height": 1566,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p8-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p8-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p8",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p8",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image008.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image008.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1566,
@@ -217,22 +217,22 @@
                     ],
                     "label": "[8]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image008.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image008.jpg"
                     },
                     "width": 1942
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p9",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p9",
                     "@type": "sc:Canvas",
                     "height": 1566,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p9-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p9-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p9",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p9",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image009.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image009.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1566,
@@ -242,22 +242,22 @@
                     ],
                     "label": "[9]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image009.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image009.jpg"
                     },
                     "width": 1943
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p10",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p10",
                     "@type": "sc:Canvas",
                     "height": 1564,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p10-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p10-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p10",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p10",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image010.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image010.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1564,
@@ -267,22 +267,22 @@
                     ],
                     "label": "[10]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image010.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image010.jpg"
                     },
                     "width": 1945
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p11",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p11",
                     "@type": "sc:Canvas",
                     "height": 1564,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p11-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p11-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p11",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p11",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image011.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image011.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1564,
@@ -292,22 +292,22 @@
                     ],
                     "label": "[11]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image011.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image011.jpg"
                     },
                     "width": 1946
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p12",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p12",
                     "@type": "sc:Canvas",
                     "height": 1574,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p12-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p12-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p12",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p12",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image012.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image012.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1574,
@@ -317,22 +317,22 @@
                     ],
                     "label": "[12]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image012.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image012.jpg"
                     },
                     "width": 1948
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p13",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p13",
                     "@type": "sc:Canvas",
                     "height": 1575,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p13-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p13-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p13",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p13",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image013.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image013.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1575,
@@ -342,22 +342,22 @@
                     ],
                     "label": "[13]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image013.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image013.jpg"
                     },
                     "width": 1948
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p14",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p14",
                     "@type": "sc:Canvas",
                     "height": 1576,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p14-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p14-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p14",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p14",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image014.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image014.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1576,
@@ -367,22 +367,22 @@
                     ],
                     "label": "[14]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image014.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image014.jpg"
                     },
                     "width": 1951
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p15",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p15",
                     "@type": "sc:Canvas",
                     "height": 1578,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p15-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p15-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p15",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p15",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image015.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image015.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1578,
@@ -392,22 +392,22 @@
                     ],
                     "label": "[15]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image015.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image015.jpg"
                     },
                     "width": 1950
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p16",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p16",
                     "@type": "sc:Canvas",
                     "height": 1576,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p16-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p16-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p16",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p16",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image016.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image016.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1576,
@@ -417,22 +417,22 @@
                     ],
                     "label": "[16]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image016.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image016.jpg"
                     },
                     "width": 1950
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p17",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p17",
                     "@type": "sc:Canvas",
                     "height": 1576,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p17-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p17-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p17",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p17",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image017.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image017.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1576,
@@ -442,22 +442,22 @@
                     ],
                     "label": "[17]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image017.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image017.jpg"
                     },
                     "width": 1952
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p18",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p18",
                     "@type": "sc:Canvas",
                     "height": 1576,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p18-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p18-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p18",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p18",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image018.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image018.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1576,
@@ -467,22 +467,22 @@
                     ],
                     "label": "[18]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image018.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image018.jpg"
                     },
                     "width": 1954
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p19",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p19",
                     "@type": "sc:Canvas",
                     "height": 1578,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p19-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p19-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p19",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p19",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image019.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image019.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1578,
@@ -492,22 +492,22 @@
                     ],
                     "label": "[19]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image019.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image019.jpg"
                     },
                     "width": 1953
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p20",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p20",
                     "@type": "sc:Canvas",
                     "height": 1578,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p20-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p20-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p20",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p20",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image020.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image020.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1578,
@@ -517,22 +517,22 @@
                     ],
                     "label": "[20]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image020.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image020.jpg"
                     },
                     "width": 1955
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p21",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p21",
                     "@type": "sc:Canvas",
                     "height": 1579,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p21-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p21-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p21",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p21",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image021.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image021.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1579,
@@ -542,22 +542,22 @@
                     ],
                     "label": "[21]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image021.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image021.jpg"
                     },
                     "width": 1955
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p22",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p22",
                     "@type": "sc:Canvas",
                     "height": 1580,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p22-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p22-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p22",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p22",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image022.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image022.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1580,
@@ -567,22 +567,22 @@
                     ],
                     "label": "[22]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image022.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image022.jpg"
                     },
                     "width": 1956
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p23",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p23",
                     "@type": "sc:Canvas",
                     "height": 1583,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p23-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p23-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p23",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p23",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image023.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image023.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1583,
@@ -592,22 +592,22 @@
                     ],
                     "label": "[23]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image023.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image023.jpg"
                     },
                     "width": 1955
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p24",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p24",
                     "@type": "sc:Canvas",
                     "height": 1583,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p24-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p24-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p24",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p24",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image024.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image024.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1583,
@@ -617,22 +617,22 @@
                     ],
                     "label": "[24]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image024.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image024.jpg"
                     },
                     "width": 1956
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p25",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p25",
                     "@type": "sc:Canvas",
                     "height": 1584,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p25-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p25-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p25",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p25",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image025.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image025.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1584,
@@ -642,22 +642,22 @@
                     ],
                     "label": "[25]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image025.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image025.jpg"
                     },
                     "width": 1959
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p26",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p26",
                     "@type": "sc:Canvas",
                     "height": 1584,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p26-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p26-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p26",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p26",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image026.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image026.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1584,
@@ -667,22 +667,22 @@
                     ],
                     "label": "[26]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image026.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image026.jpg"
                     },
                     "width": 1956
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p27",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p27",
                     "@type": "sc:Canvas",
                     "height": 1632,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/annotation/p27-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/annotation/p27-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8412/manifest.json/canvas/p27",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8412/manifest.json/canvas/p27",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image027.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image027.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1632,
@@ -692,7 +692,7 @@
                     ],
                     "label": "[27]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image027.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image027.jpg"
                     },
                     "width": 2010
                 }
@@ -702,7 +702,7 @@
         }
     ],
     "thumbnail": {
-        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image001.jpg"
+        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1589 注華嚴法界觀門1卷 1590 佛遺教經論疏節要1卷/image001.jpg"
     },
     "viewingDirection": "right-to-left"
 }

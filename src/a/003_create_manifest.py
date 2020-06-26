@@ -11,7 +11,8 @@ import yaml
 import requests
 
 # prefix = "https://nakamura196.github.io/sat_iiif"
-prefix = "https://sat-iiif.s3.amazonaws.com"
+# prefix = "https://sat-iiif.s3.amazonaws.com"
+prefix = "https://d1av1vcgsldque.cloudfront.net"
 odir = "../../docs"
 path = "data/main3.xlsx"
 

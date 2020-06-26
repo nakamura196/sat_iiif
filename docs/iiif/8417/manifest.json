@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json",
+    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "酉蓮社",
     "label": "原人論1卷",
@@ -15,24 +15,24 @@
             "value": "U1587"
         }
     ],
-    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json",
     "sequences": [
         {
-            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/sequence/normal",
+            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p1",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1638,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p1-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p1",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p1",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1638,
@@ -42,22 +42,22 @@
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg"
                     },
                     "width": 2021
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p2",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 1630,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p2-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p2",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p2",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image071.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image071.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1630,
@@ -67,22 +67,22 @@
                     ],
                     "label": "[2]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image071.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image071.jpg"
                     },
                     "width": 2021
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p3",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 1625,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p3-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p3-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p3",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p3",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image072.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image072.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1625,
@@ -92,22 +92,22 @@
                     ],
                     "label": "[3]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image072.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image072.jpg"
                     },
                     "width": 2021
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p4",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p4",
                     "@type": "sc:Canvas",
                     "height": 1622,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p4-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p4-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p4",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p4",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image073.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image073.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1622,
@@ -117,22 +117,22 @@
                     ],
                     "label": "[4]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image073.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image073.jpg"
                     },
                     "width": 2022
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p5",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p5",
                     "@type": "sc:Canvas",
                     "height": 1642,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p5-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p5-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p5",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p5",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image074.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image074.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1642,
@@ -142,22 +142,22 @@
                     ],
                     "label": "[5]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image074.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image074.jpg"
                     },
                     "width": 2021
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p6",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p6",
                     "@type": "sc:Canvas",
                     "height": 1628,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p6-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p6-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p6",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p6",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image075.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image075.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1628,
@@ -167,22 +167,22 @@
                     ],
                     "label": "[6]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image075.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image075.jpg"
                     },
                     "width": 2024
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p7",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p7",
                     "@type": "sc:Canvas",
                     "height": 1633,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p7-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p7-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p7",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p7",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image076.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image076.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1633,
@@ -192,22 +192,22 @@
                     ],
                     "label": "[7]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image076.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image076.jpg"
                     },
                     "width": 2022
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p8",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p8",
                     "@type": "sc:Canvas",
                     "height": 1629,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p8-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p8-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p8",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p8",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image077.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image077.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1629,
@@ -217,22 +217,22 @@
                     ],
                     "label": "[8]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image077.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image077.jpg"
                     },
                     "width": 2024
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p9",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p9",
                     "@type": "sc:Canvas",
                     "height": 1633,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p9-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p9-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p9",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p9",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image078.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image078.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1633,
@@ -242,22 +242,22 @@
                     ],
                     "label": "[9]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image078.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image078.jpg"
                     },
                     "width": 2020
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p10",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p10",
                     "@type": "sc:Canvas",
                     "height": 1633,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p10-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p10-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p10",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p10",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image079.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image079.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1633,
@@ -267,22 +267,22 @@
                     ],
                     "label": "[10]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image079.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image079.jpg"
                     },
                     "width": 2020
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p11",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p11",
                     "@type": "sc:Canvas",
                     "height": 1635,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p11-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p11-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p11",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p11",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image080.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image080.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1635,
@@ -292,22 +292,22 @@
                     ],
                     "label": "[11]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image080.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image080.jpg"
                     },
                     "width": 2019
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p12",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p12",
                     "@type": "sc:Canvas",
                     "height": 1635,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p12-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p12-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p12",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p12",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image081.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image081.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1635,
@@ -317,22 +317,22 @@
                     ],
                     "label": "[12]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image081.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image081.jpg"
                     },
                     "width": 2019
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p13",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p13",
                     "@type": "sc:Canvas",
                     "height": 1634,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p13-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p13-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p13",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p13",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image082.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image082.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1634,
@@ -342,22 +342,22 @@
                     ],
                     "label": "[13]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image082.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image082.jpg"
                     },
                     "width": 2018
                 },
                 {
-                    "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p14",
+                    "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p14",
                     "@type": "sc:Canvas",
                     "height": 1634,
                     "images": [
                         {
-                            "@id": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/annotation/p14-image",
+                            "@id": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/annotation/p14-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://sat-iiif.s3.amazonaws.com/iiif/8417/manifest.json/canvas/p14",
+                            "on": "https://d1av1vcgsldque.cloudfront.net/iiif/8417/manifest.json/canvas/p14",
                             "resource": {
-                                "@id": "https://sat-iiif.s3.amazonaws.com/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image083.jpg",
+                                "@id": "https://d1av1vcgsldque.cloudfront.net/files/original/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image083.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1634,
@@ -367,7 +367,7 @@
                     ],
                     "label": "[14]",
                     "thumbnail": {
-                        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image083.jpg"
+                        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image083.jpg"
                     },
                     "width": 2016
                 }
@@ -377,7 +377,7 @@
         }
     ],
     "thumbnail": {
-        "@id": "https://sat-iiif.s3.amazonaws.com/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg"
+        "@id": "https://d1av1vcgsldque.cloudfront.net/files/medium/1585 華嚴經明法品内立三寶章2卷 -1588 華嚴經旨歸1卷/image070.jpg"
     },
     "viewingDirection": "right-to-left"
 }
