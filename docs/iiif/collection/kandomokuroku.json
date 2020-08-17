@@ -1,0 +1,16 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/sat_iiif/iiif/collection/kandomokuroku.json",
+    "@type": "sc:Collection",
+    "label": "kandomokuroku",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/sat_iiif/iiif/kandomokuroku/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "勘同目録",
+            "thumbnail": "https://05r4t6462c.execute-api.us-east-1.amazonaws.com/latest/iiif/2/sat%2Ffiles%2Ftile%2FkandomokurokuJPEG%2Fkandomokuroku%20p.153/full/256,/0/default.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}
